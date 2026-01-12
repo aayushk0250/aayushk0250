@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Currently building: Personal and real-world software projects with a focus on backend systems<br>🤝 Open to collaborating on: Backend, full-stack, and scalable application development<br>🧑‍💻 Can help with: Software development, debugging, and writing clean, maintainable code<br>🌱 Currently learning: Backend development and Generative AI<br>💬 Ask me about: Data Structures & Algorithms, System Design basics, and backend fundamentals<br>⚡ Fun fact: After solving 800+ DSA problems in C++, I’m now learning Spring Boot to build production-ready backend applications
 
-## 🌐 Socials:
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushk0250)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushk0250@gmail.com)
@@ -30,7 +30,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4CAF50?style=for-the-badge)
+
 
 
 ## 📊 LeetCode Stats:
