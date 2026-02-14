@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building: Personal and real-world software projects with a focus on backend systems<br>🤝 Open to collaborating on: Backend, full-stack, and scalable application development<br>🧑‍💻 Can help with: Software development, debugging, and writing clean, maintainable code<br>🌱 Currently learning: Backend development and Generative AI<br>💬 Ask me about: Data Structures & Algorithms, System Design basics, and backend fundamentals<br>⚡ Fun fact: After solving 800+ DSA problems in C++, I’m now learning Spring Boot to build production-ready backend applications
+🔭 Currently building: Personal and real-world software projects with a focus on backend systems<br>🤝 Open to collaborating on: Backend, full-stack, and scalable application development<br>🧑‍💻 Can help with: Software development, debugging, and writing clean, maintainable code<br>🌱 Currently learning: Backend development and System Design<br>💬 Ask me about: Data Structures & Algorithms, System Design, and backend fundamentals<br>⚡ Fun fact: After solving 800+ DSA problems in C++, I’m now learning Spring Boot to build production-ready backend applications
 
 
 ## 🌐 Socials:
